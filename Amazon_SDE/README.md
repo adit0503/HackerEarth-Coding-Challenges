@@ -9,3 +9,6 @@ A = [8, 5, 6, 25, 6, 16]
 
 Output -
 8*3 + 6*2 + 5*1 = 37
+
+## run the tests as:
+>> python text_problems.py -v
